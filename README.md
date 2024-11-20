@@ -46,7 +46,8 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
  
- ![alt text](<FWAD LAB EX2.jpg>)
+ ![Screenshot 2024-11-13 142301](https://github.com/user-attachments/assets/1417bfc2-6763-434e-ac85-757190157bf8)
+
 
 
 ## RESULT
